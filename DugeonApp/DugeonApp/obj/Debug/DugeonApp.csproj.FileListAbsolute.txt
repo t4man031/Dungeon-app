@@ -1,0 +1,10 @@
+C:\Users\Student\Documents\Visual Studio 2017\Projects\My Dugeon app\DugeonApp\DugeonApp\bin\Debug\DugeonApp.exe.config
+C:\Users\Student\Documents\Visual Studio 2017\Projects\My Dugeon app\DugeonApp\DugeonApp\bin\Debug\DugeonApp.exe
+C:\Users\Student\Documents\Visual Studio 2017\Projects\My Dugeon app\DugeonApp\DugeonApp\bin\Debug\DugeonApp.pdb
+C:\Users\Student\Documents\Visual Studio 2017\Projects\My Dugeon app\DugeonApp\DugeonApp\obj\Debug\DugeonApp.csprojAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2017\Projects\My Dugeon app\DugeonApp\DugeonApp\obj\Debug\DugeonApp.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Visual Studio 2017\Projects\My Dugeon app\DugeonApp\DugeonApp\obj\Debug\DugeonApp.exe
+C:\Users\Student\Documents\Visual Studio 2017\Projects\My Dugeon app\DugeonApp\DugeonApp\obj\Debug\DugeonApp.pdb
+C:\Users\Student\Documents\Visual Studio 2017\Projects\My Dugeon app\DugeonApp\DugeonApp\bin\Debug\DugeonLibary.dll
+C:\Users\Student\Documents\Visual Studio 2017\Projects\My Dugeon app\DugeonApp\DugeonApp\bin\Debug\DugeonLibary.pdb
+C:\Users\Student\Documents\Visual Studio 2017\Projects\My Dugeon app\DugeonApp\DugeonApp\obj\Debug\DugeonApp.csproj.CopyComplete

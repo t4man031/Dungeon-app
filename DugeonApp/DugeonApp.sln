@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DugeonApp", "DugeonApp\DugeonApp.csproj", "{3548E6F4-0198-42B0-9437-06D79639325B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DugeonLibary", "DugeonLibary\DugeonLibary.csproj", "{BE8FD2A8-4310-4C80-A336-9210988C839B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3548E6F4-0198-42B0-9437-06D79639325B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3548E6F4-0198-42B0-9437-06D79639325B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3548E6F4-0198-42B0-9437-06D79639325B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3548E6F4-0198-42B0-9437-06D79639325B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE8FD2A8-4310-4C80-A336-9210988C839B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE8FD2A8-4310-4C80-A336-9210988C839B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE8FD2A8-4310-4C80-A336-9210988C839B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE8FD2A8-4310-4C80-A336-9210988C839B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {932DA082-D508-411A-B3F4-BE81257C55C1}
+	EndGlobalSection
+EndGlobal
